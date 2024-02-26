@@ -1,0 +1,31 @@
+[
+{
+  "Datum": "06.07.2023 06:24:48",
+  "Naziv": "Playstation 5",
+  "Opis": "playstation 5 digital",
+  "Cijena": 350,
+  "Kategorija": "Konzola   ",
+  "Kolicina": 1,
+  "Total": 350
+}
+,
+{
+  "Datum": "06.07.2023 06:24:48",
+  "Naziv": "Iphone 14 Pro",
+  "Opis": "256GB, 120Hz",
+  "Cijena": 1235,
+  "Kategorija": "Mobitel   ",
+  "Kolicina": 2,
+  "Total": 2470
+}
+,
+{
+  "Datum": "06.07.2023 06:24:48",
+  "Naziv": "Galaxy S23",
+  "Opis": "128GB, Black",
+  "Cijena": 1300,
+  "Kategorija": "Mobitel   ",
+  "Kolicina": 3,
+  "Total": 3900
+}
+]

@@ -1,0 +1,31 @@
+[
+{
+  "Datum": "05.06.2023 13:09:24",
+  "Naziv": "Playstation 5",
+  "Opis": "playstation 5 digital",
+  "Cijena": 350,
+  "Kategorija": "Konzola   ",
+  "Kolicina": 1,
+  "Total": 350
+}
+,
+{
+  "Datum": "05.06.2023 13:09:24",
+  "Naziv": "Iphone 14 Pro",
+  "Opis": "256GB, 120Hz",
+  "Cijena": 1235,
+  "Kategorija": "Mobitel   ",
+  "Kolicina": 1,
+  "Total": 1235
+}
+,
+{
+  "Datum": "05.06.2023 13:09:24",
+  "Naziv": "Notebook Gigabyte Gaming G5 GE",
+  "Opis": "15.6\u0022 FHD IPS 144Hz, Intel Core i5 12500H",
+  "Cijena": 1000,
+  "Kategorija": "Laptop    ",
+  "Kolicina": 2,
+  "Total": 2000
+}
+]

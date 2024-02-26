@@ -1,0 +1,29 @@
+[
+  {
+    "Datum": "10/18/2023 15:01:05",
+    "Naziv": "Playstation 5",
+    "Opis": "playstation 5 digital",
+    "Cijena": 350.0,
+    "Kategorija": "Konzola   ",
+    "Kolicina": 3,
+    "Total": 350.0
+  },
+  {
+    "Datum": "10/18/2023 15:01:05",
+    "Naziv": "Playstation 5",
+    "Opis": "playstation 5 digital",
+    "Cijena": 350.0,
+    "Kategorija": "Konzola   ",
+    "Kolicina": 3,
+    "Total": 350.0
+  },
+  {
+    "Datum": "10/18/2023 15:01:05",
+    "Naziv": "Notebook Gigabyte Gaming G5 GE",
+    "Opis": "15.6\" FHD IPS 144Hz, Intel Core i5 12500H",
+    "Cijena": 1000.0,
+    "Kategorija": "Laptop    ",
+    "Kolicina": 3,
+    "Total": 1000.0
+  }
+]

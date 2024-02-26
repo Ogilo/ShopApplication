@@ -1,0 +1,41 @@
+[
+{
+  "Datum": "05.18.2023 17:24:59",
+  "Naziv": "Iphone 14 Pro",
+  "Opis": "256GB, 120Hz",
+  "Cijena": 1235,
+  "Kategorija": "Mobitel   ",
+  "Kolicina": 1,
+  "Total": 1235
+}
+,
+{
+  "Datum": "05.18.2023 17:25:00",
+  "Naziv": "Galaxy S23",
+  "Opis": "128GB, Black",
+  "Cijena": 1300,
+  "Kategorija": "Mobitel   ",
+  "Kolicina": 2,
+  "Total": 2600
+}
+,
+{
+  "Datum": "05.18.2023 17:25:00",
+  "Naziv": "Notebook Gigabyte Gaming G5 GE",
+  "Opis": "15.6\u0022 FHD IPS 144Hz, Intel Core i5 12500H",
+  "Cijena": 1000,
+  "Kategorija": "Laptop    ",
+  "Kolicina": 2,
+  "Total": 2000
+}
+,
+{
+  "Datum": "05.18.2023 17:25:00",
+  "Naziv": "Iphone 14 Pro",
+  "Opis": "256GB, 120Hz",
+  "Cijena": 1235,
+  "Kategorija": "Mobitel   ",
+  "Kolicina": 1,
+  "Total": 1235
+}
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Datum": "04.21.2023 20:16:16",
+    "Naziv": "SBOX WM-911",
+    "Opis": "bežicni, crni",
+    "Cijena": 7.83,
+    "Kategorija": "Miš       ",
+    "Kolicina": 1,
+    "Total": 7.83
+  },
+  {
+    "Datum": "04.21.2023 20:16:16",
+    "Naziv": "Galaxy S23",
+    "Opis": "128GB, Black",
+    "Cijena": 1300.0,
+    "Kategorija": "Mobitel   ",
+    "Kolicina": 2,
+    "Total": 2600.0
+  },
+  {
+    "Datum": "04.21.2023 20:16:16",
+    "Naziv": "Iphone 14 Pro",
+    "Opis": "256GB, 120Hz",
+    "Cijena": 1235.0,
+    "Kategorija": "Mobitel   ",
+    "Kolicina": 2,
+    "Total": 2470.0
+  }
+]

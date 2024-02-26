@@ -1,0 +1,21 @@
+[
+{
+  "Datum": "12/05/2023 00:08:39",
+  "Naziv": "Playstation 5",
+  "Opis": "playstation 5 digital",
+  "Cijena": 350,
+  "Kategorija": "Konzola   ",
+  "Kolicina": 2,
+  "Total": 700
+}
+,
+{
+  "Datum": "12/05/2023 00:08:39",
+  "Naziv": "Iphone 14 Pro",
+  "Opis": "256GB, 120Hz",
+  "Cijena": 1235,
+  "Kategorija": "Mobitel   ",
+  "Kolicina": 1,
+  "Total": 1235
+}
+]
